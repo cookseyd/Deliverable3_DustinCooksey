@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Deliverable3_DustinCooksey/1.0.0": {
+        "runtime": {
+          "Deliverable3_DustinCooksey.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deliverable3_DustinCooksey/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

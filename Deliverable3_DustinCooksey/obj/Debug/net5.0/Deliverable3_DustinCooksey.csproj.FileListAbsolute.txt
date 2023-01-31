@@ -1,0 +1,16 @@
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\obj\Debug\net5.0\Deliverable3_DustinCooksey.csproj.AssemblyReference.cache
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\obj\Debug\net5.0\Deliverable3_DustinCooksey.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\obj\Debug\net5.0\Deliverable3_DustinCooksey.AssemblyInfoInputs.cache
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\obj\Debug\net5.0\Deliverable3_DustinCooksey.AssemblyInfo.cs
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\obj\Debug\net5.0\Deliverable3_DustinCooksey.csproj.CoreCompileInputs.cache
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\bin\Debug\net5.0\Deliverable3_DustinCooksey.exe
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\bin\Debug\net5.0\Deliverable3_DustinCooksey.deps.json
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\bin\Debug\net5.0\Deliverable3_DustinCooksey.runtimeconfig.json
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\bin\Debug\net5.0\Deliverable3_DustinCooksey.runtimeconfig.dev.json
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\bin\Debug\net5.0\Deliverable3_DustinCooksey.dll
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\bin\Debug\net5.0\ref\Deliverable3_DustinCooksey.dll
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\bin\Debug\net5.0\Deliverable3_DustinCooksey.pdb
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\obj\Debug\net5.0\Deliverable3_DustinCooksey.dll
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\obj\Debug\net5.0\ref\Deliverable3_DustinCooksey.dll
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\obj\Debug\net5.0\Deliverable3_DustinCooksey.pdb
+D:\Schoolwork\USF\ISM4300\Deliverable3_DustinCooksey\obj\Debug\net5.0\Deliverable3_DustinCooksey.genruntimeconfig.cache
