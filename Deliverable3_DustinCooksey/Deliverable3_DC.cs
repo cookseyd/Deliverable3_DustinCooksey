@@ -1,5 +1,14 @@
 ﻿using System;
 
+/*
+ * Author: Dustin Cooksey
+ * Date: 01/29/2023
+ * Description: This C# Console application takes a users input
+ * in the form of an integer and returns either the odd or
+ * even numbers between 1 and the integer depending
+ * on which set the user selects.
+*/
+
 namespace Deliverable3_DustinCooksey
 {
     class Deliverable3_DC
